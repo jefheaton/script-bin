@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "79b5e1be00defa53cc377ade7bf621a4cc238827597dde48ffc23d0a0f9c9184"
+            "sha256": "d0ea62e6d9b5ee24703bc663bb70182fd0a75e0869c01bc05cb8b05917cfcb02"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,13 @@
         ]
     },
     "default": {
+        "alfred-workflow": {
+            "hashes": [
+                "sha256:5cf78561231b98255387a8ad4ce9120169d40c87800994b6596bb347192c8980"
+            ],
+            "index": "pypi",
+            "version": "==1.36"
+        },
         "freezegun": {
             "hashes": [
                 "sha256:6cb82b276f83f2acce67f121dc2656f4df26c71e32238334eb071170b892a278",
